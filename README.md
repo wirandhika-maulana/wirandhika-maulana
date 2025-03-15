@@ -18,7 +18,7 @@
 </div>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirandhika-maulana&layout=compact&theme=dracula" />
+[![Top Langs] <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wirandhika-maulana&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)" />
 </p>
 
 ---
