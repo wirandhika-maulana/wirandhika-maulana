@@ -18,7 +18,7 @@
 </div>
 
 <p>
- <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wirandhika-maulana&layout=compact&theme=dracula)](https://github.com/wirandhika-maulana/github-readme-stats)" />
+ <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wirandhika-maulana&layout=compact&theme=dracula)](https://github.com/wirandhika-maulana&layout=compact&theme=dracula/github-readme-stats)" />
 </p>
 
 ---
