@@ -31,6 +31,9 @@
 ![snake gif](https://github.com/wirandhika-maulana/wirandhika-maulana/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
+<p>
+ <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wirandhika-maulana&layout=compact&theme=dracula" />
+</p>
 
 
   ## 💰 You can help me by Donating
