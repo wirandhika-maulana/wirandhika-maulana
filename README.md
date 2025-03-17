@@ -28,11 +28,6 @@
 <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=black" alt="Codeigniter" />
 
 
-
-
-
-
-
 ![snake gif](https://github.com/wirandhika-maulana/wirandhika-maulana/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
