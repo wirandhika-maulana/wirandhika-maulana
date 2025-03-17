@@ -32,7 +32,7 @@
 </div>
 
 <p>
- <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wirandhika-maulana&layout=compact&theme=dracula" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirandhika-maulana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 
