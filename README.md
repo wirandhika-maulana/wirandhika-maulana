@@ -74,7 +74,7 @@
 
 ## 💡 **About Me**
 - 🔭 I'm currently working on **Full Stack Development Projects**
-- 🌱 I'm currently learning **Advanced Go & Microservices**
+- 🌱 I'm currently learning **Advanced Go, Javascript & Microservices**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Linux, Web Development, and System Administration**
 - ⚡ Fun fact: **I love distro hopping and rice-ing my desktop configs**
