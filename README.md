@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Wirandhika Maulana Akbar 👋</h1>
-<h3 align="center">Full Stack Developer | Distro Hopper 🐧 | UI/UX Designer </h3>
+<h3 align="center">Full Stack Developer | Distro Hopper 🐧 | UI/UX Designe </h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=wirandhika-maulana&color=blue&style=for-the-badge" alt="Profile Views" />
